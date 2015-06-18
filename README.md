@@ -40,7 +40,7 @@ A template CSV file is included. Create csv file. Then run the script.
 #### CSV file tips
 
 * keep the column headers,
-* fill out all columns, 
+* fill out all columns,
 * use comma as a column separator,
 * don't leave empty lines,
 * use MS Excel or Numbers to create file,
@@ -65,6 +65,11 @@ column (Security Question 1, 2 or 3) exactly as typed below.
 -   What was the first film you saw in the theater?
 -   Where did you go the first time you flew on a plane?
 -   What is the last name of your favorite elementary school teacher?
+
+##### In Canada, the first Security question is actually:
+-   What was the name of your best friend as a teenager?
+
+There may be other changes as well.
 
 #### Security Question 2
 
