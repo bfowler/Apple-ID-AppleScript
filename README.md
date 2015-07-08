@@ -24,7 +24,7 @@ script without actually creating the Apple ID.
     representative to request that your IP address is whitelisted for a
     short time.
 -   Being [AppleScript][], this runs only on Macs.
--   [iTunes 12.1.2][] is currently required. Future versions may break the
+-   [iTunes 12.1.2 or 12.2][] is currently required. Future versions may break the
     script.
 -   [UI Scripting][] allows us to script otherwise non-scriptbale
     interfaces. Turn this on in System Preferences \> Accessibility and
@@ -74,7 +74,7 @@ There may be other changes as well.
 #### Security Question 2
 
 -   What is your dream job?
--   What is your favorite children's book?
+-   What is your favorite children’s book?
 -   What was the model of your first car?
 -   What was your childhood nickname?
 -   Who was your favorite film star or character in school?
@@ -119,7 +119,7 @@ The base for this script was created by [Aaron Freimark][1]
 Updated version brought to you by [Brandon Usher][]
 
   [AppleScript]: http://developer.apple.com/applescript/
-  [iTunes 12.1.2]: http://www.apple.com/itunes/
+  [iTunes 12.1.2 or 12.2]: http://www.apple.com/itunes/
   [UI Scripting]: http://www.mactech.com/articles/mactech/Vol.21/21.06/UserInterfaceScripting/index.html
   [strong password requirements]: http://support.apple.com/kb/TS1728
   [Greg Moore]: http://www.enterpriseios.com/users/Eight_Quarter_Bit
